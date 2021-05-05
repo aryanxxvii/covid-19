@@ -1,0 +1,83 @@
+#button-id-0- { margin: unset; min-height: 100px;
+  width: 18%; border-radius: 12px; text-align: center; font-family: montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; letter-spacing: 0px; color: rgb(181, 204, 253); font-weight: 500; font-style: normal; line-height: 21.5333px; font-size: 19px; background-color: rgb(25, 31, 133); border-color: rgb(38, 104, 161); border-width: 2px; border-style: none;
+  left: 41%; top: 238px; }
+
+#button-id-0-:active, #button-id-0-.active { color: rgb(181, 204, 253) !important; background-color: rgb(23, 28, 120) !important; border-color: rgb(38, 104, 161) !important; }
+
+#button-id-0-:hover, #button-id-0-.hover { color: rgba(181, 204, 253, 0.7); background-color: rgba(25, 31, 133, 0.7); border-color: rgb(38, 104, 161); }
+
+#button-id-47- { margin: unset; min-height: 100px;
+  width: 18%; border-radius: 12px; text-align: center; font-family: montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; letter-spacing: 0px; color: rgb(181, 204, 253); font-weight: 500; font-style: normal; line-height: 21.5333px; font-size: 19px; background-color: rgb(25, 31, 133); border-color: rgb(38, 104, 161); border-width: 2px; border-style: none;
+  left: 41%; top: 372px; }
+
+#button-id-47-:active, #button-id-47-.active { color: rgb(181, 204, 253) !important; background-color: rgb(23, 28, 120) !important; border-color: rgb(38, 104, 161) !important; }
+
+#button-id-47-:hover, #button-id-47-.hover { color: rgba(181, 204, 253, 0.7); background-color: rgba(25, 31, 133, 0.7); border-color: rgb(38, 104, 161); }
+
+#content-container { }
+
+#content-container > * { max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#element-id-43- { letter-spacing: 0px; line-height: 39.375px; font-size: 35px; font-family: montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: 700; }
+
+#text-id-7- { margin: unset; background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); width: 412px;
+  left: calc(50% - 412px / 2); top: 98px; text-align: center; }
+  #root-container {
+    background-position: center center;
+  
+  background-color: rgb(16, 5, 51);}
+
+@media (min-width:1025px) {#content-container { position: relative; display: block; }
+
+#content-container > * { position: absolute; }
+
+#text-id-7- { flex-grow: 0 !important; flex-shrink: 0 !important; }}
+
+@media (min-width:641px) and (max-width:1024px) {#button-id-0- {
+  width: 28.125%;
+  left: 35.9375%; top: 214px; }
+
+#button-id-47- {
+  width: 28.125%;
+  left: 35.9375%; top: 352px; }
+
+#content-container { position: relative; display: block; }
+
+#content-container > * { position: absolute; max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#text-id-7- {
+  width: 55.46875%;
+  left: 22.265625%; top: 96px; }}
+
+@media (max-width:640px) {#button-id-0- { background-color: rgb(40, 44, 123); color: rgb(218, 229, 251);
+  width: 55.2%; min-height: 93px;
+  left: 22.400000000000002%; top: 194px; }
+
+#button-id-0-:active, #button-id-0-.active { background-color: rgb(36, 40, 111) !important; color: rgb(218, 229, 251) !important; }
+
+#button-id-0-:hover, #button-id-0-.hover { background-color: rgba(40, 44, 123, 0.7); color: rgba(218, 229, 251, 0.7); }
+
+#button-id-47- { background-color: rgb(40, 44, 123); color: rgb(218, 229, 251);
+  width: 55.2%; min-height: 93px;
+  left: 22.400000000000002%; top: 308px; }
+
+#button-id-47-:active, #button-id-47-.active { background-color: rgb(36, 40, 111) !important; color: rgb(218, 229, 251) !important; }
+
+#button-id-47-:hover, #button-id-47-.hover { background-color: rgba(40, 44, 123, 0.7); color: rgba(218, 229, 251, 0.7); }
+
+#content-container { position: relative; display: block; }
+
+#content-container > * { position: absolute; max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#text-id-7- { line-height: 35px; text-align: center;
+  width: 81.6%;
+  left: 9.333333333333334%; top: 53px; }}
