@@ -16,6 +16,12 @@
 
 #button-id-47-:hover, #button-id-47-.hover { color: rgba(181, 204, 253, 0.7); background-color: rgba(25, 31, 133, 0.7); border-color: rgb(38, 104, 161); }
 
+#container-id-29- { flex-direction: column; align-items: flex-start; justify-content: flex-start; background-color: rgba(0, 0, 0, 0); padding: 80px; }
+
+#container-id-29- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 64px !important; }
+
+#container-id-29- > :last-child, #container-id-29- > .last-child { margin-bottom: 0px !important; }
+
 #content-container { }
 
 #content-container > * { max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
@@ -25,6 +31,14 @@
 #element-id-43- { letter-spacing: 0px; line-height: 39.375px; font-size: 35px; font-family: montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: 700; }
 
+#section-id-56- { margin: unset; min-height: 280px; background-color: rgb(24, 24, 24);
+  width: 100%; left: 0px; top: 605px; }
+
+#section-id-56- > * { max-width: 1320px; }
+
+#text-id-55- { margin: unset; background-color: rgba(0, 0, 0, 0); font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; color: rgb(146, 146, 146); letter-spacing: 0px; line-height: 15.75px; font-size: 14px; font-weight: 500; font-style: normal; }
+
 #text-id-7- { margin: unset; background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); width: 412px;
   left: calc(50% - 412px / 2); top: 98px; text-align: center; }
   #root-container {
@@ -32,7 +46,9 @@
   
   background-color: rgb(16, 5, 51);}
 
-@media (min-width:1025px) {#content-container { position: relative; display: block; }
+@media (min-width:1025px) {#container-id-29- > * { position: static; }
+
+#content-container { position: relative; display: block; }
 
 #content-container > * { position: absolute; }
 
@@ -46,11 +62,19 @@
   width: 28.125%;
   left: 35.9375%; top: 352px; }
 
+#container-id-29- { padding: 56px; }
+
+#container-id-29- > * { margin-right: 0px !important; margin-bottom: 56px !important; }
+
+#container-id-29- > :last-child, #container-id-29- > .last-child { margin-bottom: 0px !important; }
+
 #content-container { position: relative; display: block; }
 
 #content-container > * { position: absolute; max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
 
 #content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#section-id-56- { left: 0px; min-height: 178px; top: 598px; }
 
 #text-id-7- {
   width: 55.46875%;
@@ -72,11 +96,21 @@
 
 #button-id-47-:hover, #button-id-47-.hover { background-color: rgba(40, 44, 123, 0.7); color: rgba(218, 229, 251, 0.7); }
 
+#container-id-29- { align-items: center; padding: 48px 24px; background-color: rgba(0, 0, 0, 0); }
+
+#container-id-29- > * { margin-right: 0px !important; margin-bottom: 48px !important; }
+
+#container-id-29- > :last-child, #container-id-29- > .last-child { margin-bottom: 0px !important; }
+
 #content-container { position: relative; display: block; }
 
 #content-container > * { position: absolute; max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
 
 #content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#section-id-56- { left: 0px; top: 529px; min-height: 168px; background-color: rgb(27, 31, 39); }
+
+#text-id-55- { letter-spacing: 0px; line-height: 15.75px; font-size: 14px; color: rgb(122, 121, 129); }
 
 #text-id-7- { line-height: 35px; text-align: center;
   width: 81.6%;
